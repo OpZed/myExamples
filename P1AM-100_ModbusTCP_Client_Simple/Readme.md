@@ -1,1 +1,2 @@
-# Some useful comments about what this is and what it does.
+# Some useful comments about what this example is and what it does.
+# Warnings about skynet, etc ....
